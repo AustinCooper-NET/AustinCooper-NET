@@ -1,6 +1,6 @@
 # Hi, I'm Austin Cooper 👋
 
-### 🌐 Junior Network Engineer | Systems Infrastructure Builder
+### 🌐 Aspiring Junior Network Engineer | Systems Infrastructure Builder
 Passionate about designing, configuring, and securing scalable enterprise networks. Focused on building clean, fully documented topologies and understanding the underlying protocols that keep the modern internet moving.
 
 ---
