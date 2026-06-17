@@ -1,6 +1,6 @@
 # Hi, I'm Austin Cooper 👋
 
-### 🌐 Aspiring Network Engineer | Cisco Networking & Infrastructure (AAS Path)
+### 🌐 Aspiring Network Engineer | Cisco Networking & Infrastructure Student (AAS Pathway)
 
 Passionate about networking fundamentals, enterprise routing concepts, and secure network design. Currently building structured Cisco Packet Tracer labs to develop real-world troubleshooting, configuration, and verification skills.
 
@@ -11,9 +11,9 @@ Passionate about networking fundamentals, enterprise routing concepts, and secur
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Networking Fundamentals** | OSI Model, IPv4 Subnetting, VLSM, VLANs |
-| **Routing & Switching** | Static Routing, Inter-VLAN Routing (ROAS), Basic Dynamic Routing Concepts |
+| **Routing & Switching** | Static Routing, Inter-VLAN Routing (ROAS), Intro to Dynamic Routing Concepts |
 | **Cisco Platforms** | Cisco Packet Tracer, Cisco ISR Routers, Catalyst Switches |
-| **Network Services** | DHCP, DNS, Basic HTTP Server Configuration, Wireless 802.11 |
+| **Network Services** | DHCP, DNS, Basic HTTP Server Setup, Wireless 802.11 |
 | **Tools & Workflow** | Git, GitHub, Markdown Documentation |
 
 ---
